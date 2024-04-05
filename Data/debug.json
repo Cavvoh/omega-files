@@ -1,7 +1,7 @@
 {
     "magisk": {
-      "version": "v27.003",
-      "versionCode": "27003",
+      "version": "omega",
+      "versionCode": "27002",
       "link": "https://raw.githubusercontent.com/cavvoh/Magisk/deploy/stable/app-debug.apk",
       "note": "https://raw.githubusercontent.com/cavvoh/Magisk/deploy/stable/note.md"
     },
