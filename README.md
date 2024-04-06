@@ -1,3 +1,3 @@
-# Magisk File Host
+# Omega File Host
 
-This repo hosts Magisk related files
+This repo hosts Omega related files
